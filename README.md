@@ -9,3 +9,22 @@ For UK Pentesters, if running Build Reviews for ITHCs, this used alongside Nessu
 
 Great Report Layout aswell.
 
+## Is the code secure to run?
+
+Im quite confident it is, I've looked through the code and also put it through https://app.any.run/
+
+itm4n is quite well known in the industry with some great blogs etc - https://itm4n.github.io/
+
+It has no external connections
+
+![image](https://github.com/deeexcee-io/PrivEscCheck-Decoded/assets/130473605/ca4110f1-f360-44d0-bcea-157aea97e675)
+
+And the only potentially "malicious" activity is some registry queries and powershell version downgrade
+
+![image](https://github.com/deeexcee-io/PrivEscCheck-Decoded/assets/130473605/0f9d1467-239d-4a22-835f-348894b29800)
+
+## Will this be updated?
+
+If I notice itm4n has updated his script, ill update this one.
+
+
