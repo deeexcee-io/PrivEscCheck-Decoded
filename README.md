@@ -13,7 +13,10 @@ Great Report Layout aswell.
 
 Im quite confident it is, I've looked through the code and also put it through https://app.any.run/
 
-itm4n is quite well known in the industry with some great blogs etc - https://itm4n.github.io/
+itm4n is quite well known in the industry with some great blogs etc - https://itm4n.github.io/. The repo is maintained and has over 2k stars.
+
+![image](https://github.com/deeexcee-io/PrivEscCheck-Decoded/assets/130473605/8406765d-41f3-4630-a932-642d6cfd758b)
+
 
 It has no external connections
 
