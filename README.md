@@ -17,6 +17,7 @@ itm4n is quite well known in the industry with some great blogs etc - https://it
 
 ![image](https://github.com/deeexcee-io/PrivEscCheck-Decoded/assets/130473605/8406765d-41f3-4630-a932-642d6cfd758b)
 
+## app.any.run results 💀
 
 It has no external connections
 
