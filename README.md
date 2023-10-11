@@ -9,7 +9,7 @@ For UK Pentesters, if running Build Reviews for ITHCs, this used alongside Nessu
 
 Great Report Layout aswell.
 
-## Is the code secure to run?
+## Is the code secure to run? 🔒
 
 Im quite confident it is, I've looked through the code and also put it through https://app.any.run/
 
@@ -19,7 +19,7 @@ itm4n is quite well known in the industry with some great blogs etc - https://it
 
 ## app.any.run results 💀
 
-It has no external connections
+It has no external connections or http requests
 
 ![image](https://github.com/deeexcee-io/PrivEscCheck-Decoded/assets/130473605/ca4110f1-f360-44d0-bcea-157aea97e675)
 
