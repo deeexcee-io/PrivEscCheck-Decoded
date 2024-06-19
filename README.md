@@ -29,6 +29,6 @@ And the only potentially "malicious" activity is some registry queries and power
 
 ## Will this be updated?
 
-If I notice itm4n has updated his script, ill update this one.
+If I notice itm4n has updated his script, ill update this one. - #EDIT This is a lie, I dont have time
 
 
